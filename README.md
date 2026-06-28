@@ -1,5 +1,1 @@
-# Mundial 2026 Kawaii GT
-
-Versión con guardado local, exportar/importar respaldo JSON y marcadores actuales precargados al 16/06/2026.
-
-El navegador no puede editar su propio index.html por seguridad. Para respaldo permanente usa Exportar respaldo.
+Mundial 2026 Kawaii GT actualizado. Subir esta carpeta a hosting HTTPS. Abrir index.html desde la URL. Incluye marcadores de fase de grupos, localStorage, exportar/importar JSON e impresión/PDF.
